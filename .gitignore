@@ -1,11 +1,12 @@
 # Ignore Jupyter autosaves
 .ipynb_checkpoints/
+/notebooks/.ipynb_checkpoints/
 
 # Ignore compiled python files
 __pycache__/
 
-Data Preprocessing final.ipynb
-finalV3.ipynb
-outliers.png
-Task 6 & 7.ipynb
+/notebooks/Data Preprocessing final.ipynb
+/notebooks/finalV3.ipynb
+/notebooks/outliers.png
+/notebooks/Task 6 & 7.ipynb
 

@@ -1,0 +1,15 @@
+Data-Mining-Project/
+├── data/
+│   ├── raw/                # Original dataset (CSV/Excel) 
+│   └── processed/          # Cleaned dataset after Task 2
+├── notebooks/
+│   ├── 01_EDA_Visualization.ipynb
+│   ├── 02_Preprocessing.ipynb
+│   ├── 03_Clustering.ipynb
+│   ├── 04_Fuzzy_Logic.ipynb
+│   ├── 05_Genetic_Algorithm.ipynb
+│   └── FINAL_SUBMISSION.ipynb   # The single master notebook 
+├── docs/
+│   └── flowchart.png       # Required Task 7 visualization 
+├── .gitignore              # To ignore large data files or local cache
+└── README.md               # Introduction and dataset description

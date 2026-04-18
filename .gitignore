@@ -1,0 +1,11 @@
+# Ignore Jupyter autosaves
+.ipynb_checkpoints/
+
+# Ignore compiled python files
+__pycache__/
+
+Data Preprocessing final.ipynb
+finalV3.ipynb
+outliers.png
+Task 6 & 7.ipynb
+
